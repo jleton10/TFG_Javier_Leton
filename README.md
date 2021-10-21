@@ -14,7 +14,7 @@
 
 - **medida_tiempo :** codigo cronometro con interrupcion a partir de libreria TimerOne
 
-- **prueba_contar_lineas_auto :** codigo que cuenta lineas en un sistema de prueba similar al del simulador geologico, incluido final de carrera inicial, mostrando el tiempo y numero de lineas en pantalla LCD 20x4, con movimiento a partir de motor paso a paso 42BYGHW
+- **prueba_contar_lineas_auto :** codigo que cuenta lineas en un sistema de prueba similar al del simulador geologico, incluido final de carrera inicial y final, mostrando el tiempo y numero de lineas en pantalla LCD 20x4, con movimiento a partir de motor paso a paso 42BYGHW
 
 - **prueba_contar_lineas_manual1 :** codigo que cuenta lineas en un sistema de prueba similar al del simulador geologico, mostrando el tiempo y numero de lineas en pantalla LCD 20x4
 

@@ -323,7 +323,7 @@ void Temporizador() {
 
 void Micropasos() {
     if (estado == 2){
-      if (pasos <= 16 || v >= 17){
+      if (pasos < 16 || v >= 17){
         digitalWrite(X_STEP_PIN , nivel);
         if (nivel == LOW){       //                             <- INTERRUPCION MOVIMIENTO MOTOR
            nivel = HIGH;

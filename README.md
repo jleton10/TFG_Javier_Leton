@@ -2,7 +2,7 @@
 
 ## ARDUINO
 
-- **codigo_simulador :** codigo simulador geologico incluido la medida del tiempo
+- **codigo_simulador_Geo :** codigo final del sistema de modelado geológico análogo
 
 - **medida_posicionPantallaLCD :** codigo medida de la posicion con encoder mostrado en pantalla LCD 16x2
 
